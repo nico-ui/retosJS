@@ -1,3 +1,6 @@
+Repositorio de retos en js,
+Practicar debugging,
+
 Crear juego piedra, pepel y tigera vs Computador
 
 Reto 1: uso de if else
